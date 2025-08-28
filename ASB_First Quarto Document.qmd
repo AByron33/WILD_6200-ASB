@@ -1,0 +1,29 @@
+---
+title: "ASB_DisEco_Fall2025"
+author: "Andrew Byron"
+format: html
+editor: visual
+---
+
+## Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+## **Image Description**
+
+![](EpiTriad.png)
+
+In all situations where an organism is infected, there is a combination of factors that led up to and are currently influencing the infection. All of these factors fall under or in between the headings of host, pathogen, and environment. The image shown above is the epidemiological triad, a figure that displays the interrelationship that exists between host(s), pathogen(s), and a given environment. By using an image to depict the relationships, it is easier to visualize, determine how an infection occurred, and take steps to treat/control it.
