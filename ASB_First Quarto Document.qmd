@@ -27,3 +27,25 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ![](EpiTriad.png)
 
 In all situations where an organism is infected, there is a combination of factors that led up to and are currently influencing the infection. All of these factors fall under or in between the headings of host, pathogen, and environment. The image shown above is the epidemiological triad, a figure that displays the interrelationship that exists between host(s), pathogen(s), and a given environment. By using an image to depict the relationships, it is easier to visualize, determine how an infection occurred, and take steps to treat/control it.
+
+------------------------------------------------------------------------
+
+# **Worksheet 2**
+
+## Sample Size Table
+
+![](ss_table.png){fig-align="center"}
+
+1.  Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
+
+    [The necessary sample size from a population of 5000 deer to detect a disease at 5% prevalence with 95% confidence is 59 deer.]{.underline}
+
+2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+    a\. 95% confidence interval in detecting a disease at 1% prevalence in a large population.
+
+    b\. 99% confidence interval in detecting a disease at 2% prevalence in a large population:
+
+    [The sample size requirement will be higher in the scenario where the prevalence is lower. This is likely due to the inverse relationship between prevalence and sample size, which appears to be a stronger relationship than the direct relationship between confidence interval and sample size.]{.underline}
+
+3.  You sample 300 deer from a high-fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \<1 %.
