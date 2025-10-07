@@ -49,3 +49,39 @@ In all situations where an organism is infected, there is a combination of facto
     [The sample size requirement will be higher in the scenario where the prevalence is lower. This is likely due to the inverse relationship between prevalence and sample size, which appears to be a stronger relationship than the direct relationship between confidence interval and sample size.]{.underline}
 
 3.  You sample 300 deer from a high-fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \<1 %.
+
+------------------------------------------------------------------------
+
+# **Worksheet 3**
+
+Prevalence and Incidence
+
+Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10^th^ June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
+
+![](images/clipboard-2131967091.png)
+
+Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There were no infected elk in the herd after 06/16/25.
+
+Show your work.
+
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. *Write the unit for incidence.* (9 points)
+
+[6/12: (5 new cases/51 susceptible elk)\* 100 = 9.80 cases per elk-day.]{.underline}
+
+[6/14: (2 new cases/44 susceptible elk)\* 100 = 4.34 cases per elk-day.]{.underline}
+
+[6/15: (0 new cases/44 susceptible elk) \*100 = 0 cases per elk-day.]{.underline}
+
+b\) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.   (5 points)
+
+[6/13: (12 infected/56 total in herd) \* 100 = 21.43% cases per 100 elk.]{.underline}
+
+[6/16: (5/56) \* 100 = 8.93 cases per 100 elk.]{.underline}
+
+c\) On which day is the prevalence same as the incidence (except the units)? (3 points)
+
+[The prevalence and incidence were the same on 6/10/25.]{.underline}
+
+d\) On which day is the incidence lowest? (3 points)
+
+[Incidence is lowest on 6/15/25.]{.underline}
