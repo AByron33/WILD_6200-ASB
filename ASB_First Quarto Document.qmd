@@ -91,3 +91,45 @@ d\) On which day is the incidence lowest? (3 points)
 # Tick Identification Lab
 
 During the tick identification lab, Bella walked us through applying what she discussed with us on Monday's lecture. We looked at the number of legs the specimens had, 6 if it was a larvae and 8 if it was a nymph or adult. If 8 legs were seen, we would also look for the presence of a genital pore, which nymphs lack, to differentiate between the two life cycle stages. Following this, we could examine the position of the anal groove, anterior or posterior, to discern whether the tick is genus *Ixodes* or not. Finally, the tick can be turned over to allow for determination of the presence of an alloscutum if male or consutum if female. While determine whether an alloscutum or conscutum is present, we were also able to examine the mouth parts and compare them to a dichotomous to further confirm what tick we had found. Being able to identify which tick(s) have been collected during a sampling will allow for resources to be allocated to raising awareness about and increasing surveillance of the diseases vectored by those ticks. Climbing global temperatures and increased urbanization of previously wild areas has substantially increased the risk that humans and their pets become incidental hosts during the life cycle of these ticks, contracting a tickborne disease as a result. This is especially concerning due to ticks being able to maintain coinfections, allowing them to spread more than one disease in an area and is supported by the increasing incidence of tickborne diseases. Also, with the ability of transstadial transmission, a tick can easily contract a pathogen as a larvae and be transported to a new area miles away as it progresses towards adulthood, bringing the pathogen to an area where it is potentially epizootic.
+
+------------------------------------------------------------------------
+
+# Test 1 Corrections
+
+Question: Compare and contrast the two measures of frequency of disease: Prevalence and Incidence
+
+Answer: Both incidence and prevalence examine the frequency with which a disease occurs and its morbidity within a population. Both provide an idea of how a disease is affecting the population. Incidence only considers new cases of the infection, while prevalence considers past and present cases. Also, incidence only considers members of the population that are still susceptible, while prevalence considers the entire population - susceptible, infected, or recovered. Finally, incidence allows for risk of being infected to be determined, while prevalence allows for the number of individuals likely to be infected in populations of various sizes (ex: 1000, 10000, 100000 individuals).
+
+Question: When is the prevalence lowest? When is prevalence highest? Write the unit for prevalence if applicable.
+
++------+---------------------+---------------------------------+---------------------------------+
+| Year | Population Estimate | Turtles with fibroma: old cases | Turtles with fibroma: new cases |
++======+=====================+=================================+=================================+
+| 2015 | 133                 | 0                               | 4                               |
++------+---------------------+---------------------------------+---------------------------------+
+| 2016 | 125                 | 2                               | 5                               |
++------+---------------------+---------------------------------+---------------------------------+
+| 2017 | 112                 | 4                               | 8                               |
++------+---------------------+---------------------------------+---------------------------------+
+| 2018 | 145                 | 5                               | 4                               |
++------+---------------------+---------------------------------+---------------------------------+
+| 2019 | 136                 | 4                               | 2                               |
++------+---------------------+---------------------------------+---------------------------------+
+
+[2015: (4/133) \*100 = 3.0 cases of fibroma per 100 turtles.]{.underline}
+
+[2016: (7/125)\*100 = 5.6 cases of fibroma per 100 turtles.]{.underline}
+
+[2017: (12/112)\*100 = 10.7 cases of fibroma per 100 turtles.]{.underline}
+
+[2018: (9/145)\*100 = 6.2 cases of fibroma per 100 turtles.]{.underline}
+
+[2019: (6/136)\*100 = 4.4 cases of fibroma per 100 turtles.]{.underline}
+
+[Prevalence was lowest in 2015.]{.underline}
+
+[Prevalence was highest in 2017.]{.underline}
+
+------------------------------------------------------------------------
+
+# 
