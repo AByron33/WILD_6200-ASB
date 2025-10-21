@@ -102,19 +102,13 @@ Answer: Both incidence and prevalence examine the frequency with which a disease
 
 Question: When is the prevalence lowest? When is prevalence highest? Write the unit for prevalence if applicable.
 
-+------+---------------------+---------------------------------+---------------------------------+
 | Year | Population Estimate | Turtles with fibroma: old cases | Turtles with fibroma: new cases |
-+======+=====================+=================================+=================================+
-| 2015 | 133                 | 0                               | 4                               |
-+------+---------------------+---------------------------------+---------------------------------+
-| 2016 | 125                 | 2                               | 5                               |
-+------+---------------------+---------------------------------+---------------------------------+
-| 2017 | 112                 | 4                               | 8                               |
-+------+---------------------+---------------------------------+---------------------------------+
-| 2018 | 145                 | 5                               | 4                               |
-+------+---------------------+---------------------------------+---------------------------------+
-| 2019 | 136                 | 4                               | 2                               |
-+------+---------------------+---------------------------------+---------------------------------+
+|-----------------|-----------------|--------------------|--------------------|
+| 2015 | 133 | 0 | 4 |
+| 2016 | 125 | 2 | 5 |
+| 2017 | 112 | 4 | 8 |
+| 2018 | 145 | 5 | 4 |
+| 2019 | 136 | 4 | 2 |
 
 [2015: (4/133) \*100 = 3.0 cases of fibroma per 100 turtles.]{.underline}
 
@@ -132,4 +126,34 @@ Question: When is the prevalence lowest? When is prevalence highest? Write the u
 
 ------------------------------------------------------------------------
 
-# 
+# **Worksheet 4**
+
+**MERS-CoV**
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+![](MERS%20Epi%20Curve.png){width="699"}
+
+Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*
+
+1.  MERS-CoV is primarily maintained in human populations. (2 points)
+
+[This statement is incorrect. Due to transmission of MERS through human-to-human contact being limited, MERS would be unable to successfully maintained in the human population.]{.underline}
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+
+[This statement is correct]{.underline}.
+
+3.  Humans are dead-end hosts for MERS-CoV. (2 points)
+
+[This statement is correct]{.underline}.
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)
+
+[This statement is incorrect. The case fatality rate would be 35% because this is the percentage of infected individuals out of the total number of infected individuals that died as a result of MERS-CoV.]{.underline}
+
+5.  The epidemic curve indicates this is a point source outbreak. (2 points)
+
+    [This statement is incorrect. The epidemic curve indicates that MERS-CoV is the result of continuous source exposure, due to the waves of cases that are occurring. The continuous source is likely from camels that are in close contact with humans, leading to multiple spillover events.]{.underline}
