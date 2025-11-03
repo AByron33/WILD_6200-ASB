@@ -103,7 +103,7 @@ Answer: Both incidence and prevalence examine the frequency with which a disease
 Question: When is the prevalence lowest? When is prevalence highest? Write the unit for prevalence if applicable.
 
 | Year | Population Estimate | Turtles with fibroma: old cases | Turtles with fibroma: new cases |
-|-----------------|-----------------|--------------------|--------------------|
+|------------------|------------------|------------------|------------------|
 | 2015 | 133 | 0 | 4 |
 | 2016 | 125 | 2 | 5 |
 | 2017 | 112 | 4 | 8 |
@@ -157,3 +157,21 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
 5.  The epidemic curve indicates this is a point source outbreak. (2 points)
 
     [This statement is incorrect. The epidemic curve indicates that MERS-CoV is the result of continuous source exposure, due to the waves of cases that are occurring. The continuous source is likely from camels that are in close contact with humans, leading to multiple spillover events.]{.underline}
+
+------------------------------------------------------------------------
+
+# Worksheet 5
+
+**Marburg Virus Outbreak, Rwanda 2024**
+
+The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units. ​
+
+​1. Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
+
+I would classify it as an emerging infectious disease. MDV has a low between species transmission rate, because outbreaks of MDV are not occurring constantly. Additionally, unlike with a typical spillover event, all of the outbreaks of MDV had a high within H2 transmission or would have if proper measures had not been taken to reduce transmission.
+
+2\. What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+
+Community settings: Educating communities about how MDV spreads, forming relationships that will encourage community members to come to the hospital if they suspect symptoms, encourage/incentivize reporting.
+
+Healthcare settings: Access to PPE, Clear commitment to high quality healthcare, keeping up to date on new technologies that could be used to prevent the transmission of MDV, having local healthcare workers lead disease prevention and treatment responses.
