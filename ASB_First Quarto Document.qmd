@@ -175,3 +175,27 @@ I would classify it as an emerging infectious disease. MDV has a low between spe
 Community settings: Educating communities about how MDV spreads, forming relationships that will encourage community members to come to the hospital if they suspect symptoms, encourage/incentivize reporting.
 
 Healthcare settings: Access to PPE, Clear commitment to high quality healthcare, keeping up to date on new technologies that could be used to prevent the transmission of MDV, having local healthcare workers lead disease prevention and treatment responses.
+
+------------------------------------------------------------------------
+
+# Worksheet 6: 
+
+Using QPweb
+
+A new disease, *Vertico*, has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
+
+Pond 1:
+
+Prevalence: [30%]{.underline}
+
+95% CI: ([14%, 53%)]{.underline}
+
+Pond 2:
+
+Prevalence: [7%]{.underline}
+
+95% CI: ([3%, 30%)]{.underline}
+
+Fisher's exact *p*-value: [0.1987.]{.underline}
+
+Interpretation: [The *p*-value is \<0.05, therefore the the relationship between the prevalence values for the two ponds is not statistically significant.]{.underline}
