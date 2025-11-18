@@ -178,7 +178,7 @@ Healthcare settings: Access to PPE, Clear commitment to high quality healthcare,
 
 ------------------------------------------------------------------------
 
-# Worksheet 6: 
+# Worksheet 6:
 
 Using QPweb
 
@@ -199,3 +199,41 @@ Prevalence: [7%]{.underline}
 Fisher's exact *p*-value: [0.1987.]{.underline}
 
 Interpretation: [The *p*-value is \<0.05, therefore the the relationship between the prevalence values for the two ponds is not statistically significant.]{.underline}
+
+------------------------------------------------------------------------
+
+# Worksheet 7
+
+Graduate Presentations Set 1
+
+Nipah Virus\
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
+in places like Malaysia and Bangladesh. Describe how the modes of transmission differ\
+between these two regions and explain how these differences influence the preventive\
+measures recommended in each setting. 8 points
+
+In Malaysia, infected bats contaminate fruit, which is then dropped to the ground. The contaminated fruit is eaten by pigs, which then transmit it to swine herders. While in Bangladesh, the infected bats contaminate the basins used to collect date palm sap. When the date palm sap is consumed raw, the virus is passed to humans. The mode of transmission seen in Malaysia requires a bridge species, swine, while the Bangladesh pathway does not. In the Malaysia pathway, keeping swine away from fruit trees would be the simplest preventative measure. Additionally, educating swine herders on what evidence of bats in an area looks like would help them be able to take steps to avoid those areas or attempt to drive the bats from the area. In the Bangladesh pathway, placing lids on the basins or covering the basin in some way to help minimize contamination is a preventative measure that would preserve the selling of raw date palm sap. Another options is to heat up the date palm sap after collection, in order to kill the virus.
+
+\
+Avian Reovirus\
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the\
+different transmission routes of ARV and explain which environmental factors favor its\
+transmission. What pathogen characteristics support one of these transmission routes?\
+Finally, provide an example of a wild bird disease caused by ARV and briefly describe\
+its impact on the affected population. 6 points
+
+ARV can be spread through either the fecal-oral route or vertically in-ovo. The fecal-oral route is supported by poor litter hygiene and contaminated food and water. These factors allow for fecal matter from potentially infected birds to easily build up, get into the food or water, and allow the virus to be passed to naive birds, as ARV can persist in the environment for weeks. The vertical route is supported by multi-age housing and overcrowding. These factors place sexual mature birds with sexually immature birds in a confined area that is already to small for all the birds, which increases the chance that a hen laying fertile eggs will be exposed to ARV and passes it to the chick. The pathogen characteristics of being resilient and environmentally stable lends to the success of the fecal-oral route. ARV is the cause of winter mortality in crows, in which the crows suffer from neurological and respiratory signs, ultimately leading to their deaths.
+
+\
+Langya henipavirus\
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
+Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
+classified as a spillover and not a potential EID? 6 points
+
+[The likely reservoir of LayV is shrews as they were the animal with the highest prevalence of those animals tested for the presence of LayV or LayV antibodies. The likely route of transmission is through coming in contact with the shrews directly or indirectly. Direct contact would likely be through handling them Indirect transmission would be through handling fomites, whether it be contaminated produce or handling soil that shrews live in due to the stability of LayV in the environment.]{.underline}
+
+[LayV is classified as a spillover because there is low within species transmission, as the prevalence level in the tested shrews was only 27%, and the fact that there have been very few human cases. Additionally, in the human cases, no human-human transmission was seen.]{.underline}
+
+------------------------------------------------------------------------
+
+# 
