@@ -236,4 +236,198 @@ classified as a spillover and not a potential EID? 6 points
 
 ------------------------------------------------------------------------
 
-# 
+# Worksheet 8
+
+*B.procyonis* data analysis
+
+The dataset is comprised of information collected on 61 raccoons, each of which was necropsied and the number of roundworms counted. For each host there is data on the date of capture, the region (North, Central and South), the sex (male, female) and the age (adult, young adult). The last column gives the number of worms found during necropsy. Zero (0) worms indicates the raccoon was not found to be infected. Note that the necropsy data is real.
+
+\
+You have to analyze and summarize this data. Identify the patterns that emerge and\
+use the available data to explain the patterns. For example, you can compare\
+prevalence of B. procyonis between the three regions, between males and females in\
+each region, between age classes in each region, etc.
+
+Please show your work, use Quantitative Parasitology for your calculations and comparisons. Provide confidence intervals for prevalence estimates.
+
+Sterne's
+
+Overall:
+
+[Total infected: 27]{.underline}
+
+[Prevalence: 42.9%]{.underline}
+
+[95% CI: (30.8 ,55.6)]{.underline}
+
+**One criteria:**
+
+Adults:
+
+[Total infected: 36]{.underline}
+
+[Prevalence: 50.7%]{.underline}
+
+[95% CI: (38.7 ,62.3)]{.underline}
+
+Young Adults:
+
+[Total infected: 14]{.underline}
+
+[Prevalence: 40.0%]{.underline}
+
+[95% CI: (25.0 ,57.2)]{.underline}
+
+Male:
+
+[Total infected: 26]{.underline}
+
+[Prevalence: 37.75]{.underline}
+
+[95% CI: (26.7 ,50.0)]{.underline}
+
+Female:
+
+[Total infected: 24]{.underline}
+
+[Prevalence: 64.9%]{.underline}
+
+[95% CI: (48.6 ,78.6)]{.underline}
+
+North:
+
+[Total infected: 14]{.underline}
+
+[Prevalence: 28.6%]{.underline}
+
+[95% CI: (17.0 ,42.8)]{.underline}
+
+South:
+
+[Total infected: 27]{.underline}
+
+[Prevalence: 62.8 %]{.underline}
+
+[95% CI: (47.7 ,75.9)]{.underline}
+
+Central:
+
+[Total infected: 9]{.underline}
+
+[Prevalence: 64.3%]{.underline}
+
+[95% CI: (37.1 ,84.7)]{.underline}
+
+**Two criteria:**
+
+North, Female:
+
+[Total infected: 8]{.underline}
+
+[Prevalence: 38.1%]{.underline}
+
+[95% CI: (19.7 ,59.7)]{.underline}
+
+North, Male:
+
+[Total infected: 7]{.underline}
+
+[Prevalence: 24.1%]{.underline}
+
+[95% CI: (11.5 ,43.0)]{.underline}
+
+South, Female:
+
+[Total infected: 11]{.underline}
+
+[Prevalence: 100%]{.underline}
+
+[95% CI: (73.6 ,100)]{.underline}
+
+South, Male:
+
+[Total infected: 16]{.underline}
+
+[Prevalence: 50%]{.underline}
+
+[95% CI: (32.6 ,67.4)]{.underline}
+
+Central, Female:
+
+[Total infected: 5]{.underline}
+
+[Prevalence: 100%]{.underline}
+
+[95% CI: (0.500 ,1.000)]{.underline}
+
+Central, Male:
+
+[Total infected: 4]{.underline}
+
+[Prevalence: 44.4%]{.underline}
+
+[95% CI: (16.9 ,74.9)]{.underline}
+
+**Fisher's**
+
+Adult v. YA:
+
+[Fisher's exact p.vlaue: 0.3111]{.underline}
+
+Male v. Female:
+
+[Fisher's exact p.vlaue: 0.087]{.underline}
+
+North v. South:
+
+[Fisher's exact p.vlaue: 0.0015]{.underline}
+
+North v. Central:
+
+[Fisher's exact p.vlaue: 0.0256]{.underline}
+
+South v. Central:
+
+[Fisher's exact p.vlaue: 1.000]{.underline}
+
+North, Female v. North, Male:
+
+[Fisher's exact p.vlaue: 0.3557]{.underline}
+
+South, Female v. South, Male:
+
+[Fisher's exact p.vlaue: 0.0030]{.underline}
+
+Central, Female v. Central, Male:
+
+[Fisher's exact p.vlaue: 0.0859]{.underline}
+
+North, Female v. South, Female:
+
+[Fisher's exact p.vlaue: 0.0006]{.underline}
+
+North, Female v. Central, Female:
+
+[Fisher's exact p.vlaue: 0.0391]{.underline}
+
+South, Female v. Central, Female:
+
+[Fisher's exact p.vlaue: 1.000]{.underline}
+
+North, Male v. South, Male:
+
+[Fisher's exact p.vlaue: 0.0632]{.underline}
+
+North, Male v. Central, Male:
+
+[Fisher's exact p.vlaue: 0.4008]{.underline}
+
+South, Male v. Central, Male:
+
+[Fisher's exact p.vlaue: 1.000]{.underline}
+
+Finally, explain your analysis of this real-world data.
+
+The total prevalence of raccoon roundworm in Arkansas could be estimated to be around \~43%, based on the collected data. Adults showed a higher prevalence in comparison to young adults, in addition to more adults overall being infected. This could be a result of adults having had more time to acquire an infection than young adults. There is no statistically significant relationship between the prevalence values of the adult and young adult groups. When comparing males and females, females were found to have a higher prevalence. The relationship between the prevalences was found to be statistically significant, establishing a non-random relationship between males and females. Between the North, South, and Central regions, the Central region had the highest prevalence. However, the Central region also had the least number of raccoons collected from it, likely leading to the prevalence appearing higher than it truly is if a greater number of raccoons were collected. Also, the South region has almost the same prevalence level with many more raccoons collected, pointing to the South region being the hot spot for raccoon roundworm in Arkansas. When comparing the prevalence values for the 3 regions to one another, a statistically significant relationship was found between the prevalence values for the North and South regions as well as the North and Central regions. This means that the relationship between the two groups in both cases is non-random.
+
+When looking at the trends for the sexes within a region and between regions, some interesting trends emerged. For example, there is a 100% prevalence of *Baylisascaris procyonis* in females in both the South and Central regions. This points to females being the source of the infection for both regions, despite being outnumbered by the males. The region with the highest prevalence was the South, with the collected males showing 50% prevalence and females showing 100% prevalence. The region with the lowest prevalence was the North, with the collected males showing 24.1% prevalence and females showing 38.1% prevalence. The prevalence values for the Central region are between those seen in the North and South regions. Therefore, it is likely that the further north in the state a raccoon is, the less likely it is to be infected by *Baylisascaris procyonis*. When comparing the results for the sexes between regions, there was found to be a significant relationship between the following pairs: South female and male, North female and South female, North female and Central female, and North male and South male. This suggests that the prevalence between South and Central females with North females is non-random, perhaps pointing to relocation by humans or migration of females from the North to the other two regions. This thought is further supported by the established significant relationship between South and North males, suggesting that breeding pairs may have been moved to the South.
