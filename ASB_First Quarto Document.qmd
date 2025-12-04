@@ -48,7 +48,7 @@ In all situations where an organism is infected, there is a combination of facto
 
     [The sample size requirement will be higher in the scenario where the prevalence is lower. This is likely due to the inverse relationship between prevalence and sample size, which appears to be a stronger relationship than the direct relationship between confidence interval and sample size.]{.underline}
 
-3.  You sample 300 deer from a high-fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \<1 %.
+3.  You sample 300 deer from a high-fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. [Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \<1 %.]{.underline}
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,11 @@ d\) On which day is the incidence lowest? (3 points)
 
 # Tick Identification Lab
 
-During the tick identification lab, Bella walked us through applying what she discussed with us on Monday's lecture. We looked at the number of legs the specimens had, 6 if it was a larvae and 8 if it was a nymph or adult. If 8 legs were seen, we would also look for the presence of a genital pore, which nymphs lack, to differentiate between the two life cycle stages. Following this, we could examine the position of the anal groove, anterior or posterior, to discern whether the tick is genus *Ixodes* or not. Finally, the tick can be turned over to allow for determination of the presence of an alloscutum if male or consutum if female. While determine whether an alloscutum or conscutum is present, we were also able to examine the mouth parts and compare them to a dichotomous to further confirm what tick we had found. Being able to identify which tick(s) have been collected during a sampling will allow for resources to be allocated to raising awareness about and increasing surveillance of the diseases vectored by those ticks. Climbing global temperatures and increased urbanization of previously wild areas has substantially increased the risk that humans and their pets become incidental hosts during the life cycle of these ticks, contracting a tickborne disease as a result. This is especially concerning due to ticks being able to maintain coinfections, allowing them to spread more than one disease in an area and is supported by the increasing incidence of tickborne diseases. Also, with the ability of transstadial transmission, a tick can easily contract a pathogen as a larvae and be transported to a new area miles away as it progresses towards adulthood, bringing the pathogen to an area where it is potentially epizootic.
+[During the tick identification lab, Bella walked us through applying what she discussed with us on Monday's lecture. We looked at the number of legs the specimens had, 6 if it was a larvae and 8 if it was a nymph or adult. If 8 legs were seen, we would also look for the presence of a genital pore, which nymphs lack, to differentiate between the two life cycle stages. Following this, we could examine the position of the anal groove, anterior or posterior, to discern whether the tick is genus *Ixodes* or not. Finally, the tick can be turned over to allow for determination of the presence of an alloscutum if male or consutum if female. While determine whether an alloscutum or conscutum is present, we were also able to examine the mouth parts and compare them to a dichotomous to further confirm what tick we had found.]{.underline}
+
+[Being able to identify which tick(s) have been collected during a sampling will allow for resources to be allocated to raising awareness about and increasing surveillance of the diseases vectored by those ticks. Climbing global temperatures and increased urbanization of previously wild areas has substantially increased the risk that humans and their pets become incidental hosts during the life cycle of these ticks, contracting a tickborne disease as a result. This is especially concerning due to ticks being able to maintain coinfections, allowing them to spread more than one disease in an area and is supported by the increasing incidence of tickborne diseases. Also, with the ability of transstadial transmission, a tick can easily contract a pathogen as a larvae and be transported to a new area miles away as it progresses towards adulthood, bringing the pathogen to an area where it is potentially epizootic.]{.underline}
+
+![](images/clipboard-3509118692.png)
 
 ------------------------------------------------------------------------
 
@@ -176,6 +180,8 @@ Community settings: Educating communities about how MDV spreads, forming relatio
 
 Healthcare settings: Access to PPE, Clear commitment to high quality healthcare, keeping up to date on new technologies that could be used to prevent the transmission of MDV, having local healthcare workers lead disease prevention and treatment responses.
 
+![](images/clipboard-439144703.png)
+
 ------------------------------------------------------------------------
 
 # Worksheet 6:
@@ -214,6 +220,8 @@ measures recommended in each setting. 8 points
 
 In Malaysia, infected bats contaminate fruit, which is then dropped to the ground. The contaminated fruit is eaten by pigs, which then transmit it to swine herders. While in Bangladesh, the infected bats contaminate the basins used to collect date palm sap. When the date palm sap is consumed raw, the virus is passed to humans. The mode of transmission seen in Malaysia requires a bridge species, swine, while the Bangladesh pathway does not. In the Malaysia pathway, keeping swine away from fruit trees would be the simplest preventative measure. Additionally, educating swine herders on what evidence of bats in an area looks like would help them be able to take steps to avoid those areas or attempt to drive the bats from the area. In the Bangladesh pathway, placing lids on the basins or covering the basin in some way to help minimize contamination is a preventative measure that would preserve the selling of raw date palm sap. Another options is to heat up the date palm sap after collection, in order to kill the virus.
 
+![](images/clipboard-392724589.png)
+
 \
 Avian Reovirus\
 Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the\
@@ -224,6 +232,8 @@ its impact on the affected population. 6 points
 
 ARV can be spread through either the fecal-oral route or vertically in-ovo. The fecal-oral route is supported by poor litter hygiene and contaminated food and water. These factors allow for fecal matter from potentially infected birds to easily build up, get into the food or water, and allow the virus to be passed to naive birds, as ARV can persist in the environment for weeks. The vertical route is supported by multi-age housing and overcrowding. These factors place sexual mature birds with sexually immature birds in a confined area that is already to small for all the birds, which increases the chance that a hen laying fertile eggs will be exposed to ARV and passes it to the chick. The pathogen characteristics of being resilient and environmentally stable lends to the success of the fecal-oral route. ARV is the cause of winter mortality in crows, in which the crows suffer from neurological and respiratory signs, ultimately leading to their deaths.
 
+![](images/clipboard-4069724974.png)
+
 \
 Langya henipavirus\
 Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
@@ -233,6 +243,8 @@ classified as a spillover and not a potential EID? 6 points
 [The likely reservoir of LayV is shrews as they were the animal with the highest prevalence of those animals tested for the presence of LayV or LayV antibodies. The likely route of transmission is through coming in contact with the shrews directly or indirectly. Direct contact would likely be through handling them Indirect transmission would be through handling fomites, whether it be contaminated produce or handling soil that shrews live in due to the stability of LayV in the environment.]{.underline}
 
 [LayV is classified as a spillover because there is low within species transmission, as the prevalence level in the tested shrews was only 27%, and the fact that there have been very few human cases. Additionally, in the human cases, no human-human transmission was seen.]{.underline}
+
+![](images/clipboard-1614405964.png)
 
 ------------------------------------------------------------------------
 
@@ -442,19 +454,25 @@ Graduate Presentations Set 2
 
     [One practice in backyard poultry that contributes to the zoonotic spread of Salmonella prolonged contact with the poultry. Backyard poulty owners are more likely to pick up poultry, "cuddle" them, and then wear those same clothes in the house or to the store. The owners are now acting as mechanical vectors for the Salmonella bacteria and expose everyone they come in contact with. A second practice is inconsistent coop hygiene. Many backyard poultry owners fail to clean out the water dispenser, food container, or the coop itself on a regular basis. This allows for bacteria, such as Salmonella, to build up in the environment until it is eventually transferred to someone working with the poultry. A third practice is the lack of standardized management between backyard flocks. Some backyard poultry owners are going to practice more stringent biosecurity measures, feed higher quality diets that contain substances like pre- and probiotics, and clean more frequently than other backyard poultry owners. This could lead to inexperienced visitors to become infected at even the best managed flock, due to having visited less stringently managed flocks or infected due to the ill-management of a flock to start with.]{.underline}
 
-2.  Tall fescue grass is commonly infected with a fungal endophyte (Epichloë\
-    coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.\
+![](images/clipboard-3473210994.png)
 
-    a.  What advantage does Tall fescue gain from being infected with a fungal\
-        endophyte? 3 points\
+1.  Tall fescue grass is commonly infected with a fungal endophyte (Epichloë coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.\
+
+    a.  What advantage does Tall fescue gain from being infected with a fungal endophyte? 3 points
+
+        \
         [The fungal endophyte in Tall Fescue helps it better tolerate being grazed, making it a grass that is highly sought after for pastures.]{.underline}
 
-    b.  [What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems? 4 points\
+    b.  [What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems? 4 points]{.underline}
+
+        [\
         The severity of fescue toxicosis is dependent on temperature, soil fertility, level of drought stress, microbial communities present, and grazing management. Temperature and drought stress increase the production of alkaloids, which are what cause fescue toxicosis when the grass is consumed. Soil fertility and microbial communities affect endophyte expression, which will in turn influence both the success of the plant and to what extent alkaloids will be released. Grazing management directly influences the toxin accumulation and diseases risk by control how much Tall Fescue is ingested at certain points throughout the year.]{.underline}
 
     c.  What are the key clinical signs of fescue toxicity in cattle? 3 points
 
         [Weight loss, poor performance, rough and discolored haircoat, decreased growth, decreased energy, and decreased immune function.]{.underline}
+
+        ![](images/clipboard-2713176847.png)
 
     ------------------------------------------------------------------------
 
@@ -466,12 +484,208 @@ Graduate Presentations Set 3
 
     [The different routes for ASF transmission are: Vector borne through ticks in the genus *Ornithodoros*, indirect (contaminated clothing, equipment, feed, and/or trucks), direct (pig to pig thorugh blood, feces, and/or saliva), carcasses and other pork products, and humans acting as mechanical vectors. The role of humans in the spread and transmission of ASF is through incidentally helping the process along. Humans do this by transporting pigs and pork products across borders, illegally trading wild boar meat and untreated pork, not reporting due to not receiving a satisfactory reward, swill feeding pigs, and having delayed detection in smallholder systems.]{.underline}
 
+    ![](images/clipboard-2372090638.png)
+
 2.  Describe how co-infection with Koala retrovirus (KoRV) affects the severity,\
     progression, and management of Chlamydia in koalas. 10 points
 
     [KoRV causes an acquired immunodeficiency in koalas, allowing for immunodeficient koalas to be infected by Chlamydia easier and experience a more severe infection. Due to the koalas having a compromised ability to fight off the Chlamydia infection, they have a higher bacterial load than their uninfected counterparts. This leads to higher infertility and mortality rates. When it comes to managing the infection, antibiotics have proved effective. However, these same antibiotics disrupt the established gut microbioe of the koalas, leaving them unable to properly digest the eucalyptus leaves that compose their diet. This further impacts their health, making it a tricky situation.]{.underline}
 
+    ![](images/clipboard-1115979053.png)
+
 3.  Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake populations in North America.\
     What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)? 10 points
 
     [One key challenge of surveillance of SFD is being able to find infected snakes, since snakes are not active year-round or they are hiding out of sight. Many snakes blend in with their environment or are moving around in order to properly thermoregulate themselves. A second challenge of surveillance is differentiating between snakes. Many snakes look identical and it is difficult to place any sort of marker or tag on the snake that will stay on them without harming them. This could make it difficult to determine whether the snake captured is a new capture or a recapture, unless it has a distinguishing mark on it. A third surveillance challenge is the frequency of false negatives that come up when trying to detect SFD using qPCR. This requires multiple swabs needing to be taken and tests being rerun, consuming both time and resources. One challenge of management is trying to treat wild snakes that are found to have SFD. Most anti-fungal treatments require multiple doses, so unless affected snakes are taken out of the wild and treated until they are no longer infected, it will be difficult to completely eliminate an infection. A second challenge of management is the transmission routes. SFD can be transmitted from snake-to-snake or from human-to-snake, with humans acting as mechanical vectors. This means that SFD infected snakes must be carefully handled in order to limit contact with clothing and equipment to prevent the spread to potentially healthy snakes.]{.underline}
+
+    ![](images/clipboard-451432763.png)
+
+    ------------------------------------------------------------------------
+
+# Final Exam
+
+1\. True or False. If false, explain why the statement is incorrect (10 points)
+
+\
+a. Per the community–epidemiology continuum proposed by Fenton and Pedersen (2005), a disease caused by a pathogen with high between-species transmission and no within–target species transmission will be termed a spillover.
+
+[False. A disease caused by a pathogen with a high between-species transmission and no within-target species transmission would not be a spillover because spillovers have low between-species transmission]{.underline}.
+
+\
+b. A viral disease that is transmitted to susceptible hosts only by vectors is infectious as well as contagious.
+
+[False. Contagious diseases require direct contact between the infected and the susceptible host. The viral disease mentioned in the example would be infectious due to being spread exclusively by vectors.]{.underline}
+
+\
+c. The eggs of Baylisascaris procyonis can be transmitted to humans by direct contact immediately after excretion by an infected raccoon.
+
+[False. The eggs take a few weeks to become infectious. However, due to raccoons commonly defecating in the same area, it is best to treat any raccoon feces found as infectious due to the indeterminate age of all the feces present.]{.underline}
+
+\
+d. A fungus growing on tall fescue leaves is responsible for decreased feed intake in cattle grazing on this grass, resulting in reduced weight gain and lower milk production.
+
+[True.]{.underline}
+
+\
+e. Northern cardinals are considered superspreaders species for West Nile virus.
+
+[False. Cardinals are considered to be supersupressors due to having a low viral load when infected.]{.underline}
+
+\
+2. List the community-based interventions used for preventing dracunculiasis transmission in endemic regions. Explain how each intervention interrupts specific stages of the Guinea worm life cycle.
+
+[First, water filters. This interrupts the third stage Guinea worm larvae portion of the life cycle by filtering out the water flea hosts they inhabit at this stage. This prevents ingestion of the water flea and prevention infection by Guinea worm. Second, water treatment methods. This interrupts the egg through third larval stage portion of the life cycle by destroying the eggs or the water flea host, ending the Guinea worm life cycle entirely. Third, drinking from safe water sources. This interrupts the entire life cycle by preventing infection with Guinea worm in the first place and leading people to avoid the bodies of water that have Guinea worm in them. Fourth, public education. Similar to drinking from non-contaminated sources, public education interrupts the whole life cycle by teaching those at risk how to avoid contracting it and how to mitigate the spread of it if they are actively infected.]{.underline}
+
+How have these strategies evolved in recent years given the emergence of animal (particularly dog) infections? (10 points)
+
+[The drinking from safe water strategy is no longer an option because unless a water source is monitored 24/7, an infected animal could place an affected limb in the water and permanently contaminate it. In turn, this likely forced people to rely more on water filters and water treatment. While both strategies are useful, needing to treat all of the water collected could quickly become costly. This leaves using a water filter as the best long-term solution to prevent the spread of Guinea worm. As for public education, there has likely been expansion to discuss animals cases, methods set up to report infected animals, and how to avoid infecting animals. Public education is now especially important for those that own agricultural animals, as preventing them being infected is paramount to the economic well-being of those individuals.]{.underline}
+
+\
+3. Chronic wasting disease (CWD) is an emerging prion disease of cervids and one of the most significant wildlife conservation challenges in North America. What are the main obstacles wildlife agencies face in managing and controlling CWD? (10 points)
+
+[First, when CWD first reaches an area it remains at a very low prevalence, making it difficult to detect. This leads to the true amount of infected being underrepresented. This becomes an issues when the prevalence begins to steadily increase after 10-15 years, which is often too late to easily eliminate it from the area. Second, the necessary management and control strategies will change depending on the what phase the infected population is in, habitat characteristics, population behavior, and genetic structure. This requires resources to be readily available as CWD progresses through these stages, something that is not always possible. Third, attempting to properly manage the population can be difficult as a balance must be maintained between slowing the spread of CWD and preventing the ecosystem from becoming unbalanced.]{.underline}
+
+\
+4. You are given data from a closed study population of 60 RFID-tagged armadillos monitored at sampling stations (no capture required). At the start of the study (December 2024) none were infected with Mycobacterium leprae. During the follow-up period, monthly assessments documented the following counts of infected animals in\
+the population:\
+• March 2025: 3 infected\
+• April 2025: 5 infected\
+• May 2025: 5 infected\
+• June 2025: 8 infected\
+• July 2025: 13 infected\
+(No deaths, births, immigration, or recovery occurred during the study.)\
+a. Calculate the monthly incidence of M. leprae infection. Show your calculations and state the units. (5 points)
+
+[March: (3 new cases/60 at risk)\*100 = 5 cases of leprosy per 100 armadillos.]{.underline}
+
+[April: (5 new cases/57 at risk)\*100 = 8.7 cases of leprosy per 100 armadillos.]{.underline}
+
+[May: (5 new cases/52 at risk)\*100 = 9.6 cases of leprosy per 100 armadillos.]{.underline}
+
+[June: (8 new cases/47 at risk)\*100 = 17 cases of leprosy per 100 armadillos.]{.underline}
+
+[July: (13 new cases/39 at risk)\*100 = 33.3 cases of leprosy per 100 armadillos.]{.underline}
+
+\
+b. Which month had the highest prevalence? Which month had the lowest prevalence? Show your calculations and state the units. (5 points)
+
+[March: (3 infected/60 total)\*100 = 5% prevalence of leprosy.]{.underline}
+
+[April: (5 infected/60 total)\*100 = 8.3% prevalence of leprosy.]{.underline}
+
+[May: (5 infected/60 total)\*100 = 8.3% prevalence of leprosy.]{.underline}
+
+[June: (8 infected/60 total)\*100 = 13.3% prevalence of leprosy.]{.underline}
+
+[July: (13 infected/60 total)\*100 = 21.6% prevalence of leprosy.]{.underline}
+
+\
+5. A beaver carcass was found at the Gunnison River Whitewater Park, Gunnison, Colorado in October 2025. Samples collected during the postmortem examination were submitted to the Veterinary Diagnostic Lab. The lab reported that the animal was positive for Tularemia.
+
+\
+a. Name the etiological agent of this disease. What subspecies of this agent causes Tularemia in aquatic animals like beavers? (2 points)
+
+.[*Francisella tularensis.* The specific causative agent for beavers would be *Francisella tularensis subspecies holartica,* also known as Tularemia type B.]{.underline}
+
+\
+b. What are the different routes of transmission for this agent? (2 points)
+
+[I. Arthropods such as mites, flies, and ticks.]{.underline}
+
+[II. Being bitten or scratched by an infected animals.]{.underline}
+
+[III. Coming in contact with a dead animal whether through inhalation of the bacteria on the fur of the animal or eating infected tissue. .]{.underline}
+
+[IV. Drinking contaminated water.]{.underline}
+
+\
+c. Describe key features/characteristics of this pathogen in the context of human health/public health. (3 points)
+
+[Tularemia is found everywhere in the Northern Hemisphere with the exception of Hawaii. It has been identified in 100 different mammals, meaning that any mammal a member of the general public may encounter could be infected. The signs of a tularemia infection change depending on the route of infection, so knowing how it was contracted is critical in both determining what the potential source is and how to treat the infection. Additionally, the signs of tularemia normally appear within 1-5 days of infection, so there is a relatively rapid onset. Despite the danger tularemia poses, it can be treated with doxycycline, a readily available antibiotic.]{.underline}
+
+\
+6. Match the following (5 points)
+
+a\. Fungal pathogen of conservation concern  1. Powassan encephalitis\
+b. Avian Vacuolar Myelinopathy 2. Ophidiomyces ophiodiicola\
+c. Tick-transmitted viral disease 3. Borrelia burgdorferi\
+d. Foreign Animal Disease 4. Aetokthonotoxin\
+e. Bell’s palsy, Bulls-eye rash 5. Pseudogymnoascus destructans 6. African Swine Fever
+
+[I. Powassan encephalitis - Tick-transmitted viral disease.]{.underline}
+
+[II. *Ophidiomyces ophiodiicola* - Fungal pathogen of conservation concern.]{.underline}
+
+[III. *Borrelia burgdorferi* - Bell's Palsy, Bulls-eye rash.]{.underline}
+
+[IV. Aetothonotoxin - Avian Vacuolar Myelinopathy.]{.underline}
+
+[V. *Pseudogymnoascus destructans* - Fungal pathogen of conservation concern.]{.underline}
+
+[VI. African Swine Fever - Foreign Animal Disease.]{.underline}
+
+\
+7. Refer to the life cycle of blacklegged tick to answer 7a – 7d. (8 points)
+
+![](images/clipboard-637920699.png){width="442"}
+
+\
+a. The two stages of blacklegged tick that can potentially transmit Lyme disease to humans are: [Nymph]{.underline} and [Adult]{.underline}.\
+b. Preferred hosts of the larval stage of Ixodes scapularis are: [Small Mammals]{.underline} and [Birds]{.underline}.\
+c. Lyme disease risk posed by host-seeking nymphs of I. scapularis is greatest during [Fall]{.underline} (season/months) while Lyme disease risk posed by host-seeking adults is greatest during [Winter]{.underline} (season/months).\
+d. The natural reservoir and competent hosts of Borrelia burgdorferi in North America: [White-Footed Mouse.]{.underline} White-tailed deer are the [Dead-end Host]{.underline} in the Lyme disease system.
+
+\
+8. Georgia has a white-tailed deer population of \~ 1 million. A total of 1351 samples from hunter-harvested deer were tested for Chronic Wasting Disease in 2022. None of the samples tested positive for CWD. Using the hypergeometric distribution, Georgia DNR determines that CWD is not present above 0.2% prevalence in Georgia’s white-tailed deer population. You are asked to comment on Georgia DNR’s CWD surveillance approach. In your commentary, explain the downside of using hypergeometric distribution for making decisions about wildlife disease surveillance. (10 points)
+
+[First, the number of sample collected in this case is too small to be truly representative of the prevalence of CWD in Georgia. Additionally, samples were from deer that were hunted, which means they are a non-random sample and therefore does not represent the general deer population. Second, hypergeometric modeling assumes a known population size. In this case, the Georgia DNR only has a rough estimate of how many deer are present, which forces them to assume an "Infinite" population size. This could potentially lead to data that misrepresents what is actually occurring. Third, using hypergeometric distribution requires estimating the prevalence of the disease, which is impractical with CWD due to it not behaving like most other diseases. CWD will spread much slower between the white-tailed deer and be found in uncommon places, such as inside plants, making predicting the prevalence of CWD difficult.]{.underline}
+
+\
+9.
+
+![](images/clipboard-3736287229.png){width="435"}
+
+\
+Place the following diseases in appropriate quadrants in the above figure. Explain your choice of quadrants. (10 points)\
+a. SARS-CoV-2: [Potential EID. There is a low between species transmission observed with only a handful of dogs, cats, and white-tailed deer testing positive for the virus. There is a high within species transmission due to becoming a global pandemic in humans and infecting millions of people.]{.underline}
+
+\
+b. Hantavirus Pulmonary Syndrome:[Spillover. HPS has a low between species transmission due to humans need to come in contact with infected rodent droppings and zero within due to humans being unable to pass it to one another. A similar pattern of within species transmission is seen in rodents.]{.underline}
+
+\
+c. Langya Henipavirus: [Spillover. There is very low between species transmission as very few humans or other susceptible animals such as dogs and goats have been found to be infected. Also, there is zero within species transmission observed in humans and it is assumed that infection comes through direct or indirect contact with infected shrews.]{.underline}
+
+\
+d. Brucellosis: [Multi-host pathogen. There is a high between species transmission of brucellosis, as it can spread from current bison and elk reservoir to domestic cattle and a variety of mammals, including humans. There is also a high within species transmission, as brucellosis has been maintained in the bison and elk of the Greater Yellowstone Area for decades]{.underline}.
+
+\
+e. West Nile virus: [Spillover. There is low between species transmission of WNV and there is zero within, with a arthropod vector required to spread the virus.]{.underline}
+
+\
+10. Anisakiasis is the disease caused by infection with the stomach worm Anisakis simplex. It reaches sexual maturity and reproduces in marine mammals. In the following figure, identify the definitive host, a dead-end host, a paratenic host, and an intermediate host. Explain your answers. (8 points)
+
+![](images/clipboard-2049017026.png)
+
+Definitive host: [Marine mammals. Marine mammals are where *Anisakis simplex* becomes sexually mature, reproduces, and has the life cycle restart in the form of eggs defecated out by the host. This can only occur in the definitive host for a parasite.]{.underline}
+
+Dead-end host: [Humans. Humans do not contribute to the life cycle and upon being infected, cause the life cycle to come to an end.]{.underline}
+
+Paratenic host: [Seafish and cephalopods.]{.underline} [Seafish and cephalopods are not a necessary part of the life cycle, but can be include without]{.underline} [disrupting it or having any adverse effect on the success of the host.]{.underline}
+
+Intermediate host: [Crustaceans. Crustaceans are where the immature larval stage resides until ingestion by a marine mammal allows for further development. Additionally the crustaceans make it easier and more likely that the parasite wil be ingested by the definitive host.]{.underline}
+
+\
+11. All infected hosts are diseased. Comment using appropriate examples. (3 points)
+
+[The above statement is false. A host can be infected, but not be diseased. One possible way is through diseases that have a prolonged incubation time. Feline Immunodeficiency Virus (FIV), following an acute stage, enters into a latent stage that can last for years where the cat is infected but showing no signs of the disease. A second way is through being a carrier. This is commonly seen in rodents that have contracted the rodent serovar of leptospirosis. Rodents are persistently infected by the bacteria, mostly remain asymptomatic, and only intermittently shed the bacteria in their urine. A finally way is a commensal pathogen acting as an opportunistic one due to the host being immunosuppressed. In this case the host is already "infected" with the pathogen. One example is *Pasteurella multocida*, a bacteria that resides in the upper respiratory tract of ungulates can cause shipping fever in cattle when they are stressed or already diseased due to another pathogen.]{.underline}
+
+\
+12. Klepac et al. estimated an R0 of 2.5 for the 2002 Phocine Distemper virus epidemic in Dutch harbor seals. Assuming that an effective PDV vaccine is available, what proportion of the seal population should be vaccinated to prevent a future outbreak of PDV?\
+(3 points)
+
+[(1- (1/2.5)) \* 100 = 60%. A minimum of 60% of the population would need to be vaccinated to prevent a future outbreak.]{.underline}
+
+\
+13. What are some of the main challenges in managing wildlife diseases? Explain using relevant examples. (6 points).
+
+[One challenge of managing wildlife disease is that the hosts may live in an environment that is not very hospitable to humans, may follow a migration pattern that has them periodically moving, or both. This makes it difficult for the host to be monitored as the individuals monitoring them and the equipment being used are likely unable to withstand the environment that the host is fully adapted to withstand. One example would be the Saiga Antelope that live on the Eurasian Steppes. The Saiga Antelope suffer a periodic mass mortality due to an overgrowth of *Pasteurella multocida*, a commensal bacteria that lives in their upper respiratory tract. This accompanied by pressure from livestock diseases and hunting has made the Saiga Antelope critically endangered. However, it may be difficult to monitor them due to the remote location they live in and the extreme temperatures seen on the Eurasian Steppes. A second challenge is that hosts may react differently to the same disease. This fact makes multi-host pathogens difficult to monitor and may lead to its impact on certain species being over- or underrepresented. One example would be cervid brain worm. When cervid brain worm infects white-tailed deer, most will continue to live normally and shed the parasite in their feces. When an elk is infect, they experience neurological symptoms shortly before dying. Unless carefully monitored, it would appear as though only the elk in an area are being infected, when there may actually be more deer that are infected than elk. Third, collecting samples from animals can be difficult. For example, doing disease surveillance in bats. Bats force researchers to work during a time when visibility is low due to being nocturnal, challenging to catch due to being in-flight when active, some species hibernate for part of the year in inaccessible locations, and doing collecting all the necessary samples while trying to prevent spreading white nose syndrome to the bats being sampled.]{.underline}
